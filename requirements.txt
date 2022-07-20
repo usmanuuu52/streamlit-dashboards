@@ -5,3 +5,5 @@ matplotlib
 seaborn
 plotly
 scikit-learn
+pandas_profiling
+st_pandas_profiling
